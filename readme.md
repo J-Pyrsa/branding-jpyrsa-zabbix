@@ -12,9 +12,13 @@ Este repositorio describe como se debe de implementar el branding de J-Pyrsa en 
 ```bash
 cd /var/tmp/
 # Clonar este repositorio
-git clone https://github.com/J-Pyrsa/branding-jpyrsa-zabbix
+git clone https://github.com/J-Pyrsa/branding-jpyrsa-zabbix.git
 cd branding-jpyrsa-zabbix
 ```
+
+> Nota: al momento de clonar el repositorio se podría solicitar las crendenciales del usuario, ya que éste no es público.
+>
+> TODO: Documentar la parte de la autenticación.
 
 ### Cambio de logos predeterminados de Zabbix por logos personalizados
 
