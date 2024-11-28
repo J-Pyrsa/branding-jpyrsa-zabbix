@@ -2,6 +2,8 @@
 
 Este repositorio describe como se debe de implementar el branding de J-Pyrsa en Zabbix, puede servir de base para cualquier otra empresa en la cual se requieran cambiar los colores y logos.
 
+Esta versió sólo aplcara para **Zabbix 7**, si tienes zabbix 6, ver el release zabbix 6, https://github.com/J-Pyrsa/branding-jpyrsa-zabbix/releases/tag/zabbix_6, o bien clona la branch correspondiente.
+
 ## Desarrollo
 
 ### Pasos preliominares
